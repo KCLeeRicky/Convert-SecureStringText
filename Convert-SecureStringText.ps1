@@ -1,9 +1,6 @@
 function Convert-SecureStringText {
     <#
         Objective: Convert between plaintext and SecureString text
-    
-        Version:
-        1.0 - 2023-22-24 ricky.kc.lee@my.cityu.edu.hk
     #>    
         [cmdletbinding()]
         param (
